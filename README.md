@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🚀 Data Enthusiast | Data Science | Machine Learning | Business Intelligence
 
-<!--
-**wafana/wafana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about turning data into actionable insights! My GitHub showcases projects in machine learning, data analysis, time series forecasting, and business intelligence.
 
-Here are some ideas to get you started:
+🔹 Churn Prediction – Built ML models (Logistic Regression, Random Forest, XGBoost) to predict e-commerce customer churn, optimizing for F2-score.
+🔹 Stock Price Forecasting – Implemented Facebook Prophet and SARIMA to predict INDF stock prices and provide investment insights.
+🔹 Sentiment Analysis – Analyzed public sentiment on Ibu Kota Nusantara (IKN) using CNN, applying NLP techniques to extract opinions from X (Twitter) data.
+🔹 RFM Analysis – Segmented customers based on Recency, Frequency, and Monetary value for business intelligence strategies.
+🔹 Stock Management System – Developed a Python-based inventory management tool for efficient stock tracking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always eager to explore new challenges and leverage data-driven solutions to solve real-world problems! 🚀
+
+📌 Let’s connect and collaborate!
