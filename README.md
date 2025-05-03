@@ -5,7 +5,6 @@
 🔗 Linkedin: [Wafa Nabila](https://www.linkedin.com/in/wafanabilas/)<br>
 🐱 Github: [Wafana](https://github.com/wafana/wafana/)<br>
 
----
 ### 🎓 Aresh Business Administration graduate exploring the world of data science.
 
 # 💻 Tech Stack:
