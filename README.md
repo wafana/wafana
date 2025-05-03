@@ -1,17 +1,7 @@
-## 🚀 Data Enthusiast | Data Science | Machine Learning | Business Intelligence
+# Hello 👋 I'm Wafa
+## Data Enthusiast
+---
+### I am a Business Graduate who is exploring the world of Data
 
-Passionate about turning data into actionable insights! My GitHub showcases projects in machine learning, data analysis, time series forecasting, and business intelligence.
-
-🔹 Churn Prediction – Built ML models (Logistic Regression, Random Forest, XGBoost) to predict e-commerce customer churn, optimizing for F2-score.
-
-🔹 Stock Price Forecasting – Implemented Facebook Prophet and SARIMA to predict INDF stock prices and provide investment insights.
-
-🔹 Sentiment Analysis – Analyzed public sentiment on Ibu Kota Nusantara (IKN) using CNN, applying NLP techniques to extract opinions from X (Twitter) data.
-
-🔹 RFM Analysis – Segmented customers based on Recency, Frequency, and Monetary value for business intelligence strategies.
-
-🔹 Stock Management System – Developed a Python-based inventory management tool for efficient stock tracking.
-
-Always eager to explore new challenges and leverage data-driven solutions to solve real-world problems! 🚀
-
-📌 Let’s connect and collaborate!
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
