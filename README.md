@@ -1,9 +1,9 @@
 # Hello 👋 I'm Wafa
 ## Data Analyst | Data Scientist 
-📍 Jakarta, Indonesia
-📧 wafa0108@gmail.com
-🔗 Linkedin: [Wafa Nabila](https://www.linkedin.com/in/wafanabilas/)
-🐱 Github: [Wafana](https://github.com/wafana/wafana/)
+📍 Jakarta, Indonesia<br>
+📧 wafa0108@gmail.com<br>
+🔗 Linkedin: [Wafa Nabila](https://www.linkedin.com/in/wafanabilas/)<br>
+🐱 Github: [Wafana](https://github.com/wafana/wafana/)<br>
 
 ---
 ### 🎓 Aresh Business Administration graduate exploring the world of data science.
