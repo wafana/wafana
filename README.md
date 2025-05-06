@@ -1,5 +1,5 @@
 # Hello 👋 I'm Wafa
-## Data Analyst | Data Scientist 
+### Data Analyst | Data Scientist 
 📍 Jakarta, Indonesia<br>
 📧 wafa0108@gmail.com<br>
 🔗 Linkedin: [Wafa Nabila](https://www.linkedin.com/in/wafanabilas/)<br>
