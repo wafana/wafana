@@ -4,6 +4,7 @@
 📧 wafa0108@gmail.com<br>
 🔗 Linkedin: [Wafa Nabila](https://www.linkedin.com/in/wafanabilas/)<br>
 🐱 Github: [Wafana](https://github.com/wafana/wafana/)<br>
+📈 Tableau: [Wafa Nabila](https://public.tableau.com/app/profile/wafa.nabila/vizzes)
 
 ### 🎓 A fresh Business graduate exploring the world of data science.
 
